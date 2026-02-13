@@ -1,0 +1,4502 @@
+[
+ {
+  "R": 0.2,
+  "energy_fci": 0.018674681618358058,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": 0.05539274275744812,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.8005861956241265,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.7634837633336768,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.060032563548507,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0225355893122638,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.1489492241143906,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1107745755799763,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.1720569170675712,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1327522875038163,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.167293722066964,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1262728688179378,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.15071723960002,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1072632133885023,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1297329682490822,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.083069674799212,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1080163058214985,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0573284201938347,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0874734203225245,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0370710488335924,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.069081625394643,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0239077152447889,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.0532813117878004,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0153760121367705,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0401780523287847,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0098486309685455,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0296591195736358,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.006265310012259,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0214689076764003,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0039406322197604,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.007034675708160076,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": 0.046367653502367615,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.8059576182122725,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.7672153981406253,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.0628355469102067,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0241948219259132,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.1506204147214594,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1115461023515778,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.1733295543390034,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1332268007592958,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.168420604287586,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1266509610875795,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.1517271865479881,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1075909570438351,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1306499517416435,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.083367877962869,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1088649905607653,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0576127728813032,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.088260835976442,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0373470656864383,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0698008673169326,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.02417607594145,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.0539254102184452,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0156351944275654,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.040749425651176,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.010100331408878,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0301683800931347,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0065135998918604,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0219284512001687,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0041887401220135,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.0054743652765911754,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": 0.04549813832261283,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.8070035526905583,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.7677691991066575,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.0634622361712345,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.024453048132124,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.1511021615677488,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1117259414617695,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.1737291733253903,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1333703707445024,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.1687596728842653,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1267694836553694,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.152023788827518,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.107694679292719,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1309147435455875,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0834595455417149,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1091068485471378,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0576964577824268,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0884865550726452,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0374316832823065,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0700133363092348,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0242619993334725,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.054124563043859,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0157222750465011,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0409339603550285,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0101885893974683,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.030336979226116,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0066026582913985,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0220811391206315,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.004278191278359,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.018907218903997602,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": 0.0556232972158684,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.8003208127571277,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.7632193430596,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.0597314345737252,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0222338402318305,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.1486119310245528,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1104343451506486,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.1716843904212562,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1323735389686593,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.1668879556597052,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1258562992032148,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.1502811445408279,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1068099974120655,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1292700995622544,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0825812757814344,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1075308377184643,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0568100437410013,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0869700924582364,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0365567695122557,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.068565480079731,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0233972240914313,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.0527572961026983,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0148687614109448,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0396505881921507,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0093440314131552,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.029131738943896,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0057628190312724,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.02094404751905,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0034397836416178,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.0072652489844999835,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": 0.04659701537458042,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.8056935608689015,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.7669516459731793,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.0625356733687759,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0238937662717118,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.1502844439332391,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1112066850178537,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.172958530760118,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1328490309273525,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.1680165336520432,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.126235507763094,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.1512928782289231,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1071389453061493,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1301889337238793,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.082880779429054,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1083814266613596,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.057095775292931,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.087759398688116,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0368341168391053,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0692865015509305,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0236668462558975,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.0534029857987162,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0151291354268024,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0402233368667169,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0095968575492762,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0296421801556372,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0060121757959453,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0214046247016175,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0036889093822228,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.0057045771245731736,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": 0.04572736702170438,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.8067398585045911,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.7675056075619403,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.0631627418761256,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0241521895613857,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.1507666412335813,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1113868037306285,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.173358654163832,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1329929366644647,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.1683561315291868,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.126354387574595,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.1515900190677613,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1072430288336614,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1304542762461491,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0829728071951086,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1086238575242287,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0571798532770575,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.087985708757094,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.036919221481352,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0694995625188728,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0237533060942305,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.0536027159676238,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0152167711387785,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0404084253552657,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0096856754319845,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0298113038573546,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0061017913472294,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0215578078918695,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0037789105500807,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.0195903944158502,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": 0.05630199020996776,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.7995434854524917,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.7624431094500401,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.0588523097353475,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0213507222294682,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.147630518358521,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1094417257898637,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.1706040018786434,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1312720050859504,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.1657148166908278,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1246484945423587,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.1490239312731092,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1054998609678204,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1279391305062059,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0811734879469688,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1061379837284286,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0553201513368804,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0855286271824518,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.035078117696715,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.067089363703287,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.021928996784312,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.051260100159019,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0134094673540974,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0381443489805253,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.007892054035836,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0276260014971135,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0043166643574506,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0194453468869829,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0019981654847177,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.00794275288061641,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": 0.0472722517151929,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.8049200702439994,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.7661773542354121,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.0616601933257868,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0230126644863333,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.1493068823481627,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.110216427012225,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.1718825296304791,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1317503350548999,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.1668483634968672,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1250309421117535,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.1500409352992915,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1058323124058789,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1288634673187656,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0814767864755335,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1069942844039975,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0556099174416396,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0863236618908996,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0353593767807796,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0678158422191963,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0222023424422297,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.051910740279163,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0136733695285753,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0387214495334127,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.008148221919527,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0281402476864758,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0045691973165412,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0199093130095176,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0022503304827035,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.006381043173484979,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": 0.04640221865536813,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.8059674074578942,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.7667317791052475,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.0622883479609948,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.023271656934115,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.1497903817974828,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1103973571284256,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.1722841328023494,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1318952226895196,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.167189540099729,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1251508763253633,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.1503397134759956,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1059374748102142,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.129130514123215,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0815699033319095,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1072385127397364,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0556951920048274,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0865518525322744,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0354459549241883,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.068030822681282,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0222904268752893,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.052112385659127,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0137626927974042,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0389084181864194,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.008238748365953,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.028311190530822,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0046605181643604,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.020064243524871,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0023420190542711,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.020685167751026245,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": 0.057393308044615454,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.7983043666528171,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.7612010872212192,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.057458814476051,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0199452154390998,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.146083610056754,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1078704719686234,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.1689102456543368,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1295376002129904,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.1638848658190977,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1227565110503348,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.1470717445065433,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1034576254717978,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1258807076616661,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0789892186503798,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1039912080119214,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0530190959727237,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.083313065204271,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0327931214208752,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0648252641485119,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0196589674036005,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.048966895501047,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0111523008117205,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0358390820006012,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.005645440550891,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0253220454174137,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.002078456740959,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0171517498662035,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.999766509178322,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.009028758411057769,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": 0.048358171510442596,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.8036868922999714,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.7649383795230265,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.0602723692455251,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.021610325747322,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.1477660020185878,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1086488786562563,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.1701956716004394,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1300203749040474,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.1650262754768588,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1231440389998233,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.1480971750504423,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1037955983369436,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1268139452848385,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0792985276995963,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1048568615777536,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0533152795149607,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0841176135416208,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0330806495841147,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0655609612194261,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0199383179699766,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.0496260724980893,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0114219207531594,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0364238682128815,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0059070482445474,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0258431795424712,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0023361835314164,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.017621987144643,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0000236670768385,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.0074654588907789865,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": 0.04748754165498889,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.8047358085294991,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.7654935211778047,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.0609021668063323,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0218702009051919,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.1482514959181391,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1088310787800184,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.1705995929795954,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.130166821057292,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.165369989755494,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1232656743177498,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.1483986592721376,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1039025359668173,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1270838791061655,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0793934730811214,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.105104191828002,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.053402584572118,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0843491069386677,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0331696980199745,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0657793856033169,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.020029125603487,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.0498312386944701,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0115140860632779,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.036614376287784,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0060004664838307,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0260176203442228,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.002430402679128,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0177803347185757,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.000118233235341,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.02213797213995905,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": 0.058847490085803006,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.7966705404052281,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.7595562897262041,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.055633779407175,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0180960828821615,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.144070865755121,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.105816639736363,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.1667198883907086,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1272845942997791,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.1615315350691922,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1203132402651186,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.144573606922491,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1008348081377992,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1232578894646184,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0761983153311865,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1012656046995883,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.050093567470561,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0805081498885896,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0298862520828946,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0619649645385414,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0167695840318145,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.04607389833934,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.008277992300109,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.032933070538605,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0027835219513188,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0224183000229394,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9992264159508923,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0142604781190658,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9969221689734541,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.010470543582303371,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": 0.049805442338133894,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.8020605191247052,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.7632975083373339,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.058454486820191,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0197652861274402,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.1457609199516243,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1065998335233809,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.1680141375990054,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1277731053722941,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.1626830808955209,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1207073432136572,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.1456100203419088,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1011799717102406,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1242028609927741,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0765155005872968,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1021437292589722,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0503982016708346,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0813255498036718,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0301821009509482,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0627133138182843,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0170569591505751,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.0467450181431537,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.008555295233272,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0335288424053761,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0030524759658759,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0229494914361188,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9994911917929156,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.014740037252241,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9971861361459434,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.008905262788357682,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": 0.048934055871172326,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.8031113722010732,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.7638535558720444,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -1.0590862710662114,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0200262805693763,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -1.1462488472858192,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1067836647143205,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -1.168420952317422,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1279215902121016,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.1630300454624272,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1208312501601303,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.145915061474214,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1012893358555245,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1244766729067015,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0766130029695622,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1023952921876092,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0504883792850452,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0815616116585947,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0302745879489814,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0629365735549288,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0171515477430257,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.0469552061976988,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0086514191047566,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0337244737048374,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0031499387140503,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0231290611424846,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9995894798499236,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0149034461510227,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.997284755238634,
+  "num_electrons": 2,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.670410375785716,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": 0.671454855748558,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.206118136873934,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.2049522903201454,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.5205950357451159,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.516186387415558,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.6782403659860871,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.6728295271268777,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.7690602494653779,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.7633896488787201,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -0.8295191070517155,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.8242665019097332,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -0.8733211681926139,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.868774599880951,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -0.9061153226363856,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9022980331466333,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -0.9308186512925154,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9276512958490409,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -0.9493599980885705,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9467411611261536,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -0.9631859745448337,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9610216453229562,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -0.9734179781029617,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.971629066957166,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -0.9809291132843703,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.979451180564044,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -0.9863979203543558,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9851785822147654,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.9903476031041775,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9893438105437645,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.6636839966130748,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": 0.6647577216731791,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.2087516204006279,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.20755547825060663,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.5220411676699261,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.5175691955611295,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.6791128885087924,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.6736429175891688,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.7696936865467133,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.7639447114859153,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -0.8300526890896215,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.8247104575846302,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -0.8737817160162449,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.8691508492677082,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -0.9065258510965937,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9026309726743915,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -0.9312025235556725,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9279609940867033,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -0.949728426907027,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9470378061839787,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -0.9635399961455247,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9613071726791282,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -0.9737569319533876,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9719040106121453,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -0.9812551386906667,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9797182480054903,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -0.9867145517329474,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9854413138810063,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.9906573589838065,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9896045421343477,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.6628157000125725,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": 0.6639025427604834,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.20932525924679002,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.20811549128051335,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.522221500673532,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.5177459343664665,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.6792936292143986,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.6738074633834564,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.7698716608450568,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.7641069959641231,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -0.8302133492456311,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.8248548198808199,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -0.8739266599906796,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.8692790558328101,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -0.9066569190010949,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9027455800300567,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -0.9313249419161775,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9280673290037365,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -0.9498468876362924,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9471404829132806,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -0.9636563212819935,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9614080623687848,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -0.9738714471719934,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9720036917807681,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -0.981367444332605,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9798167134982015,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -0.9868239743475509,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.985538243200535,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.9907637188199651,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9896999150885893,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.6553124671338901,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": 0.6564698059959266,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.22091519781915037,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.21962925359413796,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.5382868181459326,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.5337439849379616,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.6963299487105677,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.6908655080099941,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.7874651238155977,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.7817831424931315,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -0.848123178568497,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.8428761872347722,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -0.8920355228509287,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.8874978156846234,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -0.9248863114931136,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9210770064455803,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -0.9496158557425012,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.946454896457096,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -0.9681663085765373,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9655524222552941,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -0.9819919382082645,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9798313872741717,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -0.9922186322638646,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9904325608925487,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -0.9997221638614866,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9982463048250627,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0051826581734624,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0039647502953823,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0091242336486492,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0081213162742428,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.6484991387977148,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": 0.6497034681800142,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.22361043836848737,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.22227175038605881,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.539773029870475,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.5351898851255072,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.6972227692990486,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.691701565418998,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.7881037217338757,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.7823435783700539,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -0.8486574343464007,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.8433205785101543,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -0.892496638791221,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.8878745148419841,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -0.9252981327031824,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9214111996047097,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -0.9500015537654365,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9467663838923126,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -0.9685369577352287,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.965851223335351,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -0.9823485143037829,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9801193711397713,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -0.9925603835775612,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9907101769166617,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0000511204019094,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9985161613556321,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0055022624306265,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0042303045758023,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0094369433045594,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0083848487430733,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.6475401365799021,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": 0.648772013096202,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.22426233846964694,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.22288876668194663,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.5399188106367776,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.535309780514638,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.6973980645092205,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.691856688812934,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.7882827494094499,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.7825050684550432,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -0.8488184087521032,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.8434642838656498,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -0.8926418449218889,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.8880025140210938,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -0.9254298553656006,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9215262230128624,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -0.9501250888478321,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.946873685151584,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -0.9686568598489067,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9659552214639102,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -0.9824664336808331,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9802217456693617,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -0.9926765527240329,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9908114059215825,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0001651036201733,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9986161992272227,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0056133675776828,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0043288121995853,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.009544976648157,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0084817929733125,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.6037713961893223,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": 0.6077002622957435,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.28097480878874515,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.2765595363419806,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.5981614708589225,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.5932995041794571,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.7412386280496478,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.7352311612573771,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.8341381745422837,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.8282227736359509,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -0.8959902625048369,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.8906603285811585,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -0.9406018606791999,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9360304242879651,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -0.9738225244840231,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.96998870341652,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -0.9987220078607335,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9955330751836542,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0173252023131878,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0146764988064068,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0311376822171678,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0289350056599829,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.041316816419709,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0394816844283763,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0487575282590935,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0472262338146798,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0541514039855167,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0528722470119212,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.05802913508562,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0569596771490561,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.5919033148149229,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": 0.5959608213051867,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.28862386518521954,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.28406839266119843,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.6042895786117786,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.5992664637571717,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.7421486023471587,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.7361106467670032,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.8347633805075588,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.828768406388424,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -0.8965167217469986,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.8910899783233247,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -0.9410703606281305,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9364085811949049,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -0.9742526314980922,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.970336700907196,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -0.9991315942081787,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9958647117331507,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0177234126925165,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0149993403251663,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0315250355731402,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0292501653580521,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.0416918865113374,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0397888329238425,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0491214611193176,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0475270895212618,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0545068687473282,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0531695190278314,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.058378049986053,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0572551343668735,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.5891986393863893,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": 0.5934025207489068,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.29097273224789455,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.28626997900956164,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.6063515427968775,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.601176757804317,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.7428132708996985,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.7372099836934635,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.8350367630562449,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.8290067882476676,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -0.8967331565543445,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.8912752417174975,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -0.9412519076670705,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9365634076002229,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -0.974413389069507,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9704742585315378,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -0.9992821142580781,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9959941651992077,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.017869382148452,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0151255434214832,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0316678955522276,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0293742483113224,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.0418319370498066,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0399111185069325,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.0492585699314825,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.047647678793819,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.0546405975721276,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.053288223625951,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.0585083541571199,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.05737200615307,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.5134485875974848,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": 0.5194390460828657,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.37082020966773155,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.36435943255359304,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.6871585037934904,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.6802884495145249,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.8231624544084574,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.8159432207086146,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.895005702964461,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.8885407829954989,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -0.9588863573187604,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.953199140090975,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.0047706726608143,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9999111118753785,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.0386855980264644,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0345733243947577,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.0638900708226124,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0604113469568432,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0825586635843558,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0796021556265922,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0963004151597358,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0937704500024734,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.106339623124401,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1041581694202547,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.1136128431919579,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1117173515090524,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.1188366408577586,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1171768105179234,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.1225557667986705,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.121090618093506,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.5055573209582356,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": 0.5130345383325405,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.3746319439079975,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.3666983966511478,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.6895599270145198,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.6812227888799456,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.8250515738765526,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.8163561696916454,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.8956698112298643,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.8890367593380897,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -0.959538385333193,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9536943923848905,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.005398465747847,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0004093325962518,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.0392761002706203,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.035056987124408,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.0644523626615523,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0608792158065106,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0831057321176343,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0800619600667736,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.0968384472298307,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0942269807766851,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.106869568674326,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1046123488554904,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.1141358822035414,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1121702426066007,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.1193546909032652,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1176299417631057,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.1230699214802806,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.121544679773034,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.5046141293930457,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": 0.5129882309550642,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.37535500614573025,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.3665543247566198,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.6901018656876541,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.680928743885565,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.8255511358828055,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.8160466379185664,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.8963055880932153,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.8896787407183311,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -0.9600100444234022,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9541516955562291,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.0057657187147195,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0007575476252775,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.0395828352797167,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0353455979076738,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.0647283112501271,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0611389243241431,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.0833635999599167,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0803053500477093,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.097082103216369,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0944577437182228,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.1071021046603517,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1048335736667552,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.1143600603442778,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.112384879083929,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.119572263890546,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1178399425488923,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.123282276488145,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.121751471095346,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.43056663412896734,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": 0.441565608936751,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.4528799867763993,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.4415496015036574,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.7677768180761584,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.7561982278784316,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.9018864795398428,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.8901089649167518,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.9611700259030066,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -0.9538075204317641,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.027215460649093,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0207766720376021,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.0745007720862452,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.0689468694284732,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.10918029510582,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.104381010650141,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.134683305190339,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1305021827235096,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.1533584624445132,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1496746739890706,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.166944206233282,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.163658745962383,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.1767499855048018,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1737844621678208,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.1837652018198153,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1810582272851193,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.1887377022291632,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1862409279302757,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.1922292535919077,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.1899040159320415,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.41823690763584054,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": 0.43088666827139965,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.46090086212637327,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.4479808529051598,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.7741317479043062,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.7609559088435802,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.9074901862994315,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.8940496480044849,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.9661361272097203,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -0.9549080486768144,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.0284671499102136,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.0219235520140846,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.0756667847569041,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.070031963037982,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1102140462152537,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1053518024225417,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.135615671618229,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1313809898687173,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.1542327893792204,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1505025526704,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.1677893872552008,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1644658138924024,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.1775795852157003,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.174585530213268,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.184586864039088,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1818609682320411,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.1895566383086347,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.1870497102572348,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.1930480533622783,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.190720374688482,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.2,
+  "energy_fci": 0.414610411705862,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": 0.4266527487976599,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.32857142857142857,
+  "energy_fci": -0.4642139334948252,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.45187084569100455,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.45714285714285713,
+  "energy_fci": -0.7771196926492492,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.7644601449929401,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.5857142857142857,
+  "energy_fci": -0.9102466532799741,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.8972327931606,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.7142857142857143,
+  "energy_fci": -0.9687486219011657,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -0.9559519074851929,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8428571428571429,
+  "energy_fci": -1.0292142488254696,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0227129400288029,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.9714285714285714,
+  "energy_fci": -1.0762574703494128,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.0706445892494356,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.1,
+  "energy_fci": -1.1107002614591515,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1058529090245477,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.2285714285714286,
+  "energy_fci": -1.1360401859687073,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1318193434282353,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.3571428571428572,
+  "energy_fci": -1.1546148366137654,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1508990387818145,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.4857142857142858,
+  "energy_fci": -1.1681372074672178,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1648289293458303,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.6142857142857143,
+  "energy_fci": -1.177901532241325,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1749241728778388,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.7428571428571429,
+  "energy_fci": -1.1848904305332126,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1821836045278178,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 1.8714285714285714,
+  "energy_fci": -1.1898468789814443,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.187362368090154,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -1.1933284992636413,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "energy_hf": -1.1910271913298984,
+  "num_electrons": 2,
+  "mag": 2,
+  "dimerization": 0
+ }
+]

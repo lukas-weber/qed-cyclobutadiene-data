@@ -1,0 +1,562 @@
+[
+ {
+  "R": 0.0,
+  "energy_fci": -0.49982117602395804,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.499821176023955,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.4998211760239574,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.49982117602395604,
+  "λ": 0.0,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.4999483214691166,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.49994832146911755,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.4999483214691163,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.49994832146911894,
+  "λ": 0.0,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.49999478458370594,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.4999947845837074,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.49999478458370983,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.49999478458370683,
+  "λ": 0.0,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.4999992763966621,
+  "λ": 0.0,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.4999992763966626,
+  "λ": 0.0,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.4999992763966613,
+  "λ": 0.0,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.49999927639666203,
+  "λ": 0.0,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5044745705667432,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5044550168478528,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5043957524939191,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5042950441020325,
+  "λ": 0.005,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5046023641420186,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5045837515181009,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.504527640852538,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5044332638726663,
+  "λ": 0.005,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5046491874130566,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.504630809220252,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5045755518942237,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.504483073440091,
+  "λ": 0.005,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5046537497512344,
+  "λ": 0.005,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5046355783096035,
+  "λ": 0.005,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.504581029036663,
+  "λ": 0.005,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5044899999059722,
+  "λ": 0.005,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5173938688934397,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5173057959557176,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5170218253951895,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5164931465488063,
+  "λ": 0.01,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5175273201995007,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5174483827842254,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5172038739346244,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5167757535499969,
+  "λ": 0.01,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5175774886511951,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.517501380746786,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5172700302277753,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5168761257144909,
+  "λ": 0.01,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5175830865782283,
+  "λ": 0.01,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5175093032624739,
+  "λ": 0.01,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5172870449443916,
+  "λ": 0.01,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5169130094982367,
+  "λ": 0.01,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5361393055269454,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5358886966649362,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5350116630995564,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5332329820973672,
+  "λ": 0.015,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.536299683564155,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5361014094104223,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5354701352232717,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.534309035668181,
+  "λ": 0.015,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.536364767294411,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5361835123660635,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5356290540377424,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5346547937989997,
+  "λ": 0.015,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.536374761213335,
+  "λ": 0.015,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5362056299914921,
+  "λ": 0.015,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5356937536608587,
+  "λ": 0.015,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5348034266895625,
+  "λ": 0.015,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5582093382748989,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5576289227583144,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5555007638819797,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5508799922100813,
+  "λ": 0.02,
+  "basis": "aug-cc-pvtz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5584425265745661,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5580525883169472,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5567712853638788,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5541015156870546,
+  "λ": 0.02,
+  "basis": "aug-cc-pvqz",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5585386295410683,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.558203206270315,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5571548773054856,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5551001926164193,
+  "λ": 0.02,
+  "basis": "aug-cc-pv5z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.0,
+  "energy_fci": -0.5585544262435488,
+  "λ": 0.02,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 0.6666666666666666,
+  "energy_fci": -0.5582536263863171,
+  "λ": 0.02,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 1.3333333333333333,
+  "energy_fci": -0.5573157400048964,
+  "λ": 0.02,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ },
+ {
+  "R": 2.0,
+  "energy_fci": -0.5555379628574282,
+  "λ": 0.02,
+  "basis": "aug-cc-pv6z",
+  "num_electrons": 1
+ }
+]

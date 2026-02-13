@@ -1,0 +1,602 @@
+[
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.0,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.0492967503492854,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.0,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0499638999776426,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.005,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.0472660019708275,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.005,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0479330260636637,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.01,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.0419422772265854,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.01,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.042609023028447,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.015,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.0346496288080944,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.015,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0353160724373653,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.02,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.032451448250784,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.02,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0331466091448265,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.0,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.0492967503461332,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.0,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0499638999806864,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.005,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.046230079545489,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.005,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0468971123573416,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.01,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.0385941041778537,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.01,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.039260920779985,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.015,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.0286496474700186,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.015,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0293162675455685,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.02,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.023655392902358,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.02,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0244071943122384,
+  "mag": 0,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.0,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.037054728358875,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.0,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0377772300227157,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.005,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.05223414848077,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.005,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0529573141985646,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.01,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.0785846247661617,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.01,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0793133906935437,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.015,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.0973021217617385,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.015,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0980431417335126,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.02,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.1395696188274145,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.02,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.1438115817565793,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.0,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.0370547283610225,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.0,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.037777230022934,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.005,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.0511953504118,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.005,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0519209294611467,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.01,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.075201999020043,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.01,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.0759495064679894,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.015,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.0911547575308504,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.015,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.091955681621508,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.02,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.1258863191835764,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.02,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.133940757897578,
+  "mag": 2,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.0,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.631239979720225,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.0,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.632751508930576,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.005,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.7235083302887637,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.005,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.7258434086782721,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.01,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.9437406832519046,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.01,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.9450043136012813,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.015,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.1880634832498025,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.015,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.2017306544654267,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.02,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.481801566349516,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.0,
+  "λ": 0.02,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.5113331496220166,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.0,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.631239979715935,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.0,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.6327515090275104,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.005,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.7226038848138732,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.005,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.7248753550100582,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.01,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -1.938051748905135,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.01,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -1.940722661453684,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.015,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.16726619923036,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.015,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.1899067474208893,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.02,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvtz",
+  "energy_hf": -2.422396347057246,
+  "mag": 4,
+  "dimerization": 0
+ },
+ {
+  "R": 0.8,
+  "origin": 0.8,
+  "λ": 0.02,
+  "Ω": 0.05,
+  "basis": "aug-cc-pvqz",
+  "energy_hf": -2.474514876111155,
+  "mag": 4,
+  "dimerization": 0
+ }
+]
