@@ -1,5 +1,5 @@
 # Undoing the Jahn-Teller effect in molecules using magnetic cavity QED
-[![DOI](https://zenodo.org/badge/1218238333.svg)](https://doi.org/10.5281/zenodo.19698916)
+[ ![DOI](https://zenodo.org/badge/1218238333.svg)](https://doi.org/10.5281/zenodo.19698916)
 
 This is the data repository for our paper [Undoing the Jahn-Teller effect in molecules using magnetic cavity QED](TODO).
 
