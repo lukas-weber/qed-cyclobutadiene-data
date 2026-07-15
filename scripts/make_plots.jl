@@ -24,6 +24,7 @@ function make_plots()
     end
 
     with_theme(ctheme()) do
+        saveplot("hring_phases", fig_phases())
         saveplot("hrings", fig_hrings())
         saveplot("hrings_qmc", fig_hrings_qmc())
         saveplot("h2", fig_h2())

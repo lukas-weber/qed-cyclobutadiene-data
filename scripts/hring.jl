@@ -241,6 +241,7 @@ function plot_hrings_qmc(ax, df)
         begin
             :mag = :mag[argmin(:energy_qmc)]
             :energy_qmc = minimum(:energy_qmc) ± :energy_qmc_error[argmin(:energy_qmc)]
+            :energy_hf = :energy_hf[argmin(:energy_qmc)]
         end
     )
 
@@ -290,6 +291,7 @@ function plot_hrings_qmc(ax, df)
                 strokecolor = color,
                 strokewidth = 1,
             )
+            lines!(ax, g.λ, g.energy_hf, color=color, linestyle=:dash)
             λs = g.λ
             push!(energies, g.energy_qmc)
         end
@@ -319,7 +321,7 @@ function plot_hrings_qmc(ax, df)
         ax,
         markers,
         labels,
-        titles,
+        [""],
         titlegap = 3,
         orientation = :horizontal,
         nbanks = length(mags),
@@ -352,28 +354,25 @@ function fig_hrings_qmc()
                 subscript(string(Int(df.num_electrons[1]))),
                 ", ",
                 rich("R", font = :italic),
-                " = $(df.R[1]) Å",
+                " = $(df.R[1]) Å, aug-cc-p$(uppercase(df.basis[1][end-2:end]))",
             ),
             space = :relative,
             align = (:left, :top),
             offset = (4, -2),
         )
-        text!(
-            ax,
-            1,
-            1,
-            text = "AFQMC",
-            font = :bold,
-            space = :relative,
-            align = (:right, :top),
-            offset = (-4, -2),
-        )
     end
     linkxaxes!(axs...)
     hidexdecorations!(axs[1], ticks = false)
 
-    ylims!(axs[1], nothing, -1.86)
-    ylims!(axs[2], nothing, -3.9)
+    methodmarkers = [LineElement(linestyle=:dash), LineElement()]
+    methodlabels = ["UHF", "AFQMC"]
+    axislegend(axs[1], methodmarkers, methodlabels, titlegap = 3, position = (:right, :bottom))
+    axislegend(axs[2], methodmarkers, methodlabels, titlegap = 3, position = (0.9, 0))
+
+    # ylims!(axs[1], nothing, -1.86)
+    # ylims!(axs[2], nothing, -3.9)
+    ylims!(axs[1], -2.09, -1.77)
+    ylims!(axs[2], -4.3, -3.7)
     rowgap!(fig.layout, 6)
     fig
 end
@@ -830,5 +829,50 @@ function fig_basis_set()
         titlehalign = :left,
         margin = (12, 3, 3, 3),
     )
+    fig
+end
+
+function fig_phases()
+    df = load_data("hring_phases")
+    @rtransform!(df, :dimerization_angle = 360 * :dimerization / :num_electrons)
+    fig = Figure(size = (390, 250))
+
+    ax = Axis(fig[1,1], xlabel=L"$λ_\mathrm{eff}$ (a.u.)", ylabel=L"$M/N$ (a.u.)")
+
+    df4 = @rsubset(df, :num_electrons == 4 && :λ > 0.0015 && :λ < 0.00415)
+
+    df8 = @rsubset(df, :num_electrons == 8 && :λ > 0.0015 && :λ < 0.0042)
+    sort!(df8, :λ)
+    df8 = @by(df8, [:dimerization_angle, :λ, :basis], begin #remove duplicates
+        :mag = :mag[1]
+        :magnetic_moment = :magnetic_moment[1]
+    end)
+    
+    lines!(df8.λ, abs.(df8.magnetic_moment), label=rich("H₈, R=0.9 Å, δ=$(df8.dimerization_angle[1])°, ", rich("aug-cc-pVTZ")), color=Makie.wong_colors()[2])
+    
+    df4_0 = @rsubset(df4, :mag == 0)
+    df4_1 = @rsubset(df4, :mag == 2)
+    mask0 = df4_0.energy_hf .< df4_1.energy_hf
+    mask1 = df4_0.energy_hf .> df4_1.energy_hf
+
+    lines!(ax, df4_0.λ[mask0], abs.(df4_0.magnetic_moment[mask0]), label=rich("H₄, R=0.5 Å, δ=$(df4.dimerization_angle[1])°, ", rich("aug-cc-pVQZ")), color=Makie.wong_colors()[1])
+    lines!(ax, df4_1.λ[mask1], abs.(df4_1.magnetic_moment[mask1]), color=Makie.wong_colors()[1])
+    scatter!(ax, [df4_0.λ[1], df4_1.λ[end]],[0.0, df8.magnetic_moment[end]], marker=:utriangle, strokecolor=Makie.wong_colors()[2], strokewidth=1, color=:white)
+    
+    scatter!(ax, collect(extrema(df4_0.λ[mask0])), [0.,0.], marker=:diamond, strokecolor=Makie.wong_colors()[1], strokewidth=1, color=:white)
+
+
+    halfmarker = magmarker(4; fraction = 0.5, radius = 0.5)
+    scatter!(ax, collect(extrema(df4_1.λ[mask1])), df4_1.magnetic_moment[mask1][[1,sum(mask1)]], marker=:diamond, strokecolor=Makie.wong_colors()[1], strokewidth=1, color=:white)
+    scatter!(ax, collect(extrema(df4_1.λ[mask1])), df4_1.magnetic_moment[mask1][[1,sum(mask1)]], marker=halfmarker, color=Makie.wong_colors()[1])
+
+    # xlims!(ax, 0.0014, 0.0042)
+
+    text!(0.0018, 0.1, text=L"m_\mathrm{S} = 0")
+    text!(0.0028, 2.1, text=L"m_\mathrm{S} = 1")
+    text!(0.00365, 3.54, text=L"m_\mathrm{S} = 0")
+
+    axislegend(ax, position=(:left,:top))
+
     fig
 end

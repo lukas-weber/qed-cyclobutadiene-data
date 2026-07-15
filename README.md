@@ -1,4 +1,4 @@
-# Undoing the Jahn-Teller effect in molecules using magnetic cavity QED
+# Engineering molecular potential energy surfaces using magnetic cavity quantum electrodynamics
 [ ![DOI](https://zenodo.org/badge/1218238333.svg)](https://doi.org/10.5281/zenodo.19698916)
 
 This is the data repository for our paper [Engineering molecular potential energy surfaces using magnetic cavity quantum electrodynamics](https://arxiv.org/abs/2604.20969).
