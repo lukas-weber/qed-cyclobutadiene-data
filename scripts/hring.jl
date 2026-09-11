@@ -570,6 +570,8 @@ function fig_origin()
     fig = Figure(size = (390, 280), figure_padding = 6)
     ax = Axis(fig[1, 1], xlabel = L"$λ$ (a. u.)", ylabel = L"$E$ (Ha)")
 
+    xlims!(ax, -0.001, 0.021)
+    ylims!(ax, -2.55, -1.5)
 
     num_electrons = 4
     for g in groupby(df, [:mag, :origin, :basis])
@@ -636,7 +638,6 @@ function fig_origin()
         offset = (-4, -2),
         space = :relative,
     )
-    ylims!(ax, nothing, -1.5)
 
     return fig
 end

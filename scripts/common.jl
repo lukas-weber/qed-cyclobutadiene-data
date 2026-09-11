@@ -63,7 +63,7 @@ function magmarker(corners; fraction, radius = 0.53)
 
     outline = filter(x -> x[2] <= h + 0.0001, outline)
     if length(outline) == 0
-        return nothing
+        return BezierPath([MoveTo(Point2f(0,0))])
     end
 
     path = vcat([MoveTo(outline[end])], [LineTo(p) for p in outline], [ClosePath()])
