@@ -872,8 +872,22 @@ function fig_phases()
     text!(0.0018, 0.1, text=L"m_\mathrm{S} = 0")
     text!(0.0028, 2.1, text=L"m_\mathrm{S} = 1")
     text!(0.00365, 3.54, text=L"m_\mathrm{S} = 0")
+    xlims!(0.0012, 0.0047)
 
     axislegend(ax, position=(:left,:top))
+    axins = Axis(
+        fig[1, 1],
+        width = Relative(0.17),
+        height = Relative(0.28),
+        halign = 0.9,
+        valign = 0.20,
+        xticks = [0.0033, 0.0035],
+        xticklabelsize = 12,
+        yticklabelsize = 12,
+    )
+    lines!(axins, df8.λ, abs.(df8.magnetic_moment), label=rich("H₈, R=0.9 Å, δ=$(df8.dimerization_angle[1])°, ", rich("aug-cc-pVTZ")), color=Makie.wong_colors()[2])
+    lines!(axins, df4_1.λ[mask1], abs.(df4_1.magnetic_moment[mask1]), color=Makie.wong_colors()[1])
+    xlims!(axins, 0.0033, 0.0035)
 
     fig
 end
