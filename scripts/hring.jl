@@ -25,7 +25,7 @@ function maglegend(mags, bases, num_electrons; fraction = (m, n) -> m / n)
     labels = [
         [i == length(bases) ? maglabel(mag) : " " for mag in mags] for i in eachindex(bases)
     ]
-
+    
     titles = bases
     return markers, labels, titles
 end
@@ -95,9 +95,125 @@ function plot_hring(ax, df; colorrange, colormap)
     )
 end
 
+function fig_hring_omega()
+    df = load_data("ring4_omega")
+    num_electrons = 4
+
+    # main-text frequency Ω = 0.05: UHF energies of the same geometries from the QMC dataset
+    R, basis = df.R[1], df.basis[1]
+    df_main = @rsubset(
+        load_data("hrings_qmc"),
+        :num_electrons == num_electrons && :R == R && :basis == basis
+    )
+    df_main = select(df_main, :R, :Ω, :dimerization, :λ => :b, :basis, :mag, :energy_hf)
+    df = vcat(select(df, names(df_main)), df_main)
+
+    # lowest level for each frequency, dimerization and coupling
+    df = @by(df, [:R, :Ω, :dimerization, :b, :basis], begin
+        :mag = :mag[argmin(:energy_hf)]
+        :energy_hf = minimum(:energy_hf)
+    end)
+    sort!(df, :b)
+
+    fig = Figure(size = (390, 280), figure_padding = 4)
+    ax = Axis(fig[1, 1], xlabel = L"$λ/Ω$ (a. u.)", ylabel = "Energy (Ha)")
+
+    Ωs = sort(unique(df.Ω))
+    linestyles = [:solid, :dash, :dot]
+    dimercolor(d) = Makie.wong_colors()[1+(d!=0)]
+
+    for g in groupby(df, [:Ω, :dimerization])
+        color = dimercolor(g.dimerization[1])
+        linestyle = linestyles[findfirst(==(g.Ω[1]), Ωs)]
+        corners = basis_corners(g.basis[1])
+        markerfull = magmarker(corners; fraction = 1, radius = 0.5)
+
+        lines!(ax, g.b ./ g.Ω, g.energy_hf; color, linestyle)
+        scatter!(ax, g.b ./ g.Ω, g.energy_hf; marker = markerfull, color = :white)
+
+        gf = @rsubset(g, :mag != 0)
+        if nrow(gf) > 0
+            scatter!(
+                ax,
+                gf.b ./ gf.Ω,
+                gf.energy_hf;
+                marker = [
+                    magmarker(corners; fraction = mag / num_electrons, radius = 0.5) for
+                    mag in gf.mag
+                ],
+                color,
+            )
+        end
+        scatter!(
+            ax,
+            g.b ./ g.Ω,
+            g.energy_hf;
+            marker = markerfull,
+            color = :transparent,
+            strokecolor = color,
+            strokewidth = 1,
+        )
+    end
+
+    dimerizations = sort(unique(df.dimerization))
+    dimermarkers = [PolyElement(color = dimercolor(d)) for d in dimerizations]
+    dimerangle(d) = d == 0 ? 0 : round(180 / num_electrons * d, digits = 2)
+    dimerlabels = [L"δ = %$(dimerangle(d))°" for d in dimerizations]
+    axislegend(ax, dimermarkers, dimerlabels, position = (0.97, 0.86))
+
+    Ωmarkers = [LineElement(linestyle = linestyles[i]) for i in eachindex(Ωs)]
+    Ωlabels = [L"$Ω = %$(Ω)$ (a. u.)" for Ω in Ωs]
+    axislegend(ax, Ωmarkers, Ωlabels, position = (0.42, 0.0))
+
+    mags = sort(unique(df.mag))
+    bases = [uppercase(b[end-1:end]) for b in unique(df.basis)]
+    markers, labels, titles = maglegend(mags, bases, num_electrons)
+    axislegend(
+        ax,
+        markers,
+        labels,
+        [""],
+        titlegap = 3,
+        orientation = :horizontal,
+        nbanks = length(mags),
+        position = (:left, :bottom),
+        groupgap = 0,
+        margin = (3, 3, 3, 3),
+    )
+
+    text!(
+        ax,
+        0,
+        1,
+        text = rich(
+            "H",
+            subscript(string(num_electrons)),
+            ", ",
+            rich("R", font = :italic),
+            " = $(df.R[1]) Å, aug-cc-p$(uppercase(df.basis[1][end-2:end]))",
+        ),
+        space = :relative,
+        align = (:left, :top),
+        offset = (4, -2),
+    )
+    text!(
+        ax,
+        1,
+        1,
+        text = "UHF",
+        font = :bold,
+        align = (:right, :top),
+        offset = (-4, -2),
+        space = :relative,
+    )
+    ylims!(ax, nothing, -1.73)
+
+    fig
+end
+
 function fig_hrings()
     df = @rsubset(load_data("hrings_hf"), :λ < 0.02)
-    @rtransform!(df, :dimerization_angle = 360 * :dimerization / :num_electrons)
+    @rtransform!(df, :dimerization_angle = 180 * :dimerization / :num_electrons)
     fig = Figure(size = (240 * 3, 280), figure_padding = 0)
     axs =
         [Axis(fig[1, i], xlabel = L"Dimerization $δ$", ylabel = "Energy (Ha)") for i = 1:3]
@@ -108,7 +224,7 @@ function fig_hrings()
             hideydecorations!(ax, label = true, ticks = false, ticklabels = false)
         end
         n = dfs[i].num_electrons[1]
-        xlims!(ax, -4 / n, 180 / n^1.3 * 4^0.3)
+        xlims!(ax, -2 / n, 90 / n^1.3 * 4^0.3)
     end
 
     couplings = sort(unique(df.λ))
@@ -130,7 +246,7 @@ function fig_hrings()
 
     axs[3].yticks = [-3.4, -3.7, -4.0, -4.3]
 
-    xlim = [(-1 / 2, 45), (-1 / 2, 24), (-1 / 2, 22.5)]
+    xlim = [(-1 / 4, 22.5), (-1 / 4, 12), (-1 / 4, 11.25)]
 
     s = 70
     x, y = 10, 140
@@ -166,7 +282,7 @@ function fig_hrings()
 
     for (i, (df, ax, lim)) in enumerate(zip(dfs, axs, xlim))
         xlims!(ax, lim)
-        ax.xticks = ([0, 10, 20, 30, 40], ["0°", "10°", "20°", "30°", "40°"])
+        ax.xticks = ([0, 5, 10, 15, 20], ["0°", "5°", "10°", "15°", "20°"])
         text!(
             ax,
             0,
@@ -309,7 +425,7 @@ function plot_hrings_qmc(ax, df)
     dimerizations = sort(unique(df.dimerization))
 
     originmarkers = [PolyElement(color = Makie.wong_colors()[n]) for n = 1:2]
-    originlabels = [L"δ = 0°", L"δ = %$(360/df.num_electrons[1]*dimerizations[2])°"]
+    originlabels = [L"δ = 0°", L"δ = %$(180/df.num_electrons[1]*dimerizations[2])°"]
     axislegend(ax, originmarkers, originlabels, titlegap = 3, position = (:center, :bottom))
 
 
@@ -835,7 +951,7 @@ end
 
 function fig_phases()
     df = load_data("hring_phases")
-    @rtransform!(df, :dimerization_angle = 360 * :dimerization / :num_electrons)
+    @rtransform!(df, :dimerization_angle = 180 * :dimerization / :num_electrons)
     fig = Figure(size = (390, 250))
 
     ax = Axis(fig[1,1], xlabel=L"$λ_\mathrm{eff}$ (a.u.)", ylabel=L"$M/N$ (a.u.)")
